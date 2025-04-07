@@ -1,0 +1,4 @@
+Technical report for the Smart Microfinance System.
+
+## Introduction
+This project aims to use ML for financial inclusion.
